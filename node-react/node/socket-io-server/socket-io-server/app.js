@@ -67,4 +67,4 @@ http.createServer(function (req, res) {
          } 
   }
 }).listen(4002);
-console.log('Server running (8008)'); 
+console.log('Server running (4002)'); 
