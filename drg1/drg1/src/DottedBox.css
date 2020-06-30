@@ -1,0 +1,51 @@
+.DottedBox {
+  margin: 10px;
+  padding:0px 0px 0px 0px;
+  border: 1px solid grey;
+  width:400px;
+  height:200px;
+  resize: both;
+  overflow: auto;  
+  background-color:#dddddd;
+  position:absolute;
+}
+
+.DottedBox_content {
+  font-size: 15px;
+  text-align: center;
+}
+
+.handle1{
+  margin: 0px;
+  padding:8px 0px 8px 20px;
+  border: 0px solid green;
+  background-color:green;
+  color:white;
+}
+
+.DrContent{
+  margin: 0px;
+  padding:10px 20px 10px 20px;
+  border: 0px solid orange;
+}
+
+.closr{
+  position:absolute;
+  right:4px;
+  top:0px;
+  font-size:28px;
+}
+
+.Btnz{
+	padding: 8px 0px 0px 0px;
+}
+
+.Btn{
+	margin: 0px 8px 0px 0px;
+	padding: 4px 8px 4px 8px;
+}
+
+.Inpyt{ 
+	width:99%; 
+	height:40px; 
+}
